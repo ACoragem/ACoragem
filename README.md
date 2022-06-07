@@ -1,6 +1,6 @@
   👋 Hi, I’m @Adilson Coragem
-- 👀 I’m interested in javaScript, but I'm just starting!
-- 🌱 I’m currently learning the basics of JavaScript.
+- 👀 I’m interested in Tecnologia de Informação, porém estou dando os primeiros passos 
+- 🌱 I’m currently learning programar JavaScript, CSS e HTML...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: adilson_coragem@estudante.sesisenai.org.br
 
